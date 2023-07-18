@@ -1,0 +1,43 @@
+_Description of the different input files_
+
+These input files are retained in the original formats. 
+The folder contains 7 files. 
+  
+1/ The SNPs.recode.subset.rename.vcf.gz file is an example VCF file that contains variants located within chromosome 5 of 
+  several canine samples. 
+2/ The breed.xlsx file describes the breeds referring to the samples from the example VCF file. 
+3/ The dog_allfields_NCBI file are Canis familiares (CanFam3.1, Sep 2011) annotation data from the Genes and Gene Predictions 
+  table displayed in a tab-separated format suitable for import into spreadsheets and relational databases downloaded from 
+  the UCSC table browser website. 
+4/ The dog_BED_NCBI file describes Canis familiares (CanFam3.1, Sep 2011) annotation data from the Genes and Gene Predictions 
+  table displayed Browser Extensible Data format that provides a flexible way to define the data lines that are displayed 
+  in an annotation track. 
+  The file was downloaded from the UCSC table browser website. 
+5/ The dog_chromosome_names.csv file contains the names of the chromosome of the domestic dog. 
+6/ The final_omia_dataset.csv file contains the variants of interest (VOI file) and was downloaded from the OMIA.org website and 
+  manually curated (Canfam3.1, Sep 2011). 
+7/ The variants_file_alternative.xlsx contains the variants of interest (VOI file) in an alternative format for demonstrative purposes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
